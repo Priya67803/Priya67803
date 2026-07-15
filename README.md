@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi 👋, I'm Priyadarshini V
 
-<!--
-**Priya67803/Priya67803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Machine Learning Engineer
 
-Here are some ideas to get you started:
+🎓 BE Computer Science (AI & ML)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 I enjoy building AI, Machine Learning, and Java projects.
+
+🌱 Currently learning:
+- Deep Learning
+- Computer Vision
+- MLOps
+
+## 🛠️ Tech Stack
+
+- Java
+- Python
+- TensorFlow
+- PyTorch
+- Git
+- GitHub
+
+## 📂 Featured Projects
+
+- 🚀 Predictive Maintenance using NASA CMAPSS
+- 🌿 Crop Disease Detection
+- 🩺 Medical Image Classification
+- 🌐 Portfolio Website
+
+## 📫 Connect with Me
+
+- LinkedIn: Your LinkedIn URL
+- Portfolio: Your Portfolio URL
+- Email: your@email.com
