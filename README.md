@@ -1,29 +1,31 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=30&duration=2800&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Priyadarshini+V;AI+%2F+ML+Engineer;Deep+Learning+Researcher;Computer+Vision+%7C+NLP+%7C+GenAI;Predictive+Maintenance+%26+Medical+AI" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:F3E7D3,50:E8D5C4,100:D9C5B4&height=200&section=header&text=Priyadarshini%20V&fontSize=48&fontColor=3A4A40&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Deep%20Learning%20Researcher&descSize=18&descAlignY=65&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=24&duration=2800&pause=1000&color=9C6B87&center=true&vCenter=true&width=800&lines=Computer+Vision+%7C+NLP+%7C+GenAI;Predictive+Maintenance+%26+Medical+AI;PyTorch+%7C+Deep+Learning+Research" alt="Typing SVG" />
 
 <br>
 
-<img src="https://img.shields.io/badge/B.E.-Computer%20Science%20(AI%20%26%20ML)-D4AF37?style=for-the-badge&labelColor=1c1c24"/>
-<img src="https://img.shields.io/badge/M.S.%20Ramaiah%20Institute%20of%20Technology-7A2E3C?style=for-the-badge&labelColor=1c1c24"/>
-<img src="https://img.shields.io/badge/Bengaluru,%20India-6E7F9A?style=for-the-badge&labelColor=1c1c24"/>
+<img src="https://img.shields.io/badge/B.E.-Computer%20Science%20(AI%20%26%20ML)-9C6B87?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/M.S.%20Ramaiah%20Institute%20of%20Technology-C97B4A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Bengaluru,%20India-7C93A8?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Priya67803&style=for-the-badge&color=D4AF37&labelColor=1c1c24"/>
-<img src="https://img.shields.io/github/followers/Priya67803?style=for-the-badge&color=7A2E3C&labelColor=1c1c24"/>
-<img src="https://img.shields.io/github/last-commit/Priya67803/Priya67803?style=for-the-badge&color=6E7F9A&labelColor=1c1c24"/>
+<img src="https://komarev.com/ghpvc/?username=Priya67803&style=for-the-badge&color=9C6B87"/>
+<img src="https://img.shields.io/github/followers/Priya67803?style=for-the-badge&color=C97B4A"/>
+<img src="https://img.shields.io/github/last-commit/Priya67803/Priya67803?style=for-the-badge&color=7C93A8"/>
 
 <br><br>
 
 <!-- Quick navigation -->
-<a href="#-about-me"><img src="https://img.shields.io/badge/About-1c1c24?style=flat-square&labelColor=1c1c24&color=D4AF37"/></a>
-<a href="#-experience"><img src="https://img.shields.io/badge/Experience-1c1c24?style=flat-square&labelColor=1c1c24&color=D4AF37"/></a>
-<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-1c1c24?style=flat-square&labelColor=1c1c24&color=D4AF37"/></a>
-<a href="#-publications--conferences"><img src="https://img.shields.io/badge/Publications-1c1c24?style=flat-square&labelColor=1c1c24&color=D4AF37"/></a>
-<a href="#-tech-stack"><img src="https://img.shields.io/badge/Skills-1c1c24?style=flat-square&labelColor=1c1c24&color=D4AF37"/></a>
-<a href="#-github-statistics"><img src="https://img.shields.io/badge/Stats-1c1c24?style=flat-square&labelColor=1c1c24&color=D4AF37"/></a>
-<a href="#-connect"><img src="https://img.shields.io/badge/Connect-1c1c24?style=flat-square&labelColor=1c1c24&color=D4AF37"/></a>
+<a href="#-about-me"><img src="https://img.shields.io/badge/About-9C6B87?style=flat-square"/></a>
+<a href="#-experience"><img src="https://img.shields.io/badge/Experience-9C6B87?style=flat-square"/></a>
+<a href="#-featured-projects"><img src="https://img.shields.io/badge/Projects-9C6B87?style=flat-square"/></a>
+<a href="#-publications--conferences"><img src="https://img.shields.io/badge/Publications-9C6B87?style=flat-square"/></a>
+<a href="#-tech-stack"><img src="https://img.shields.io/badge/Skills-9C6B87?style=flat-square"/></a>
+<a href="#-github-statistics"><img src="https://img.shields.io/badge/Stats-9C6B87?style=flat-square"/></a>
+<a href="#-connect"><img src="https://img.shields.io/badge/Connect-9C6B87?style=flat-square"/></a>
 
 </div>
 
@@ -204,30 +206,30 @@ Automated build, test, and deploy pipeline that reduced manual release errors.
 
 **Languages**
 <br>
-<img src="https://skillicons.dev/icons?i=java,python,c&theme=dark"/> &nbsp;
-<img src="https://img.shields.io/badge/SQL-6E7F9A?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python,c&theme=light"/> &nbsp;
+<img src="https://img.shields.io/badge/SQL-7C93A8?style=flat-square&logo=postgresql&logoColor=white"/>
 
 **AI / ML**
 <br>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark"/> &nbsp;
-<img src="https://img.shields.io/badge/Keras-D4AF37?style=flat-square&logo=keras&logoColor=1c1c24"/>
-<img src="https://img.shields.io/badge/scikit--learn-7A2E3C?style=flat-square&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-6E7F9A?style=flat-square&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-D4AF37?style=flat-square&logo=pandas&logoColor=1c1c24"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=light"/> &nbsp;
+<img src="https://img.shields.io/badge/Keras-9C6B87?style=flat-square&logo=keras&logoColor=white"/>
+<img src="https://img.shields.io/badge/scikit--learn-C97B4A?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-7C93A8?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-9C6B87?style=flat-square&logo=pandas&logoColor=white"/>
 
 **Web & Deployment**
 <br>
-<img src="https://skillicons.dev/icons?i=html,css,js,flask,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,flask,vercel&theme=light"/>
 
 **Data & Cloud**
 <br>
-<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,linux&theme=dark"/> &nbsp;
-<img src="https://img.shields.io/badge/Snowflake-6E7F9A?style=flat-square&logo=snowflake&logoColor=white"/>
-<img src="https://img.shields.io/badge/Databricks-7A2E3C?style=flat-square&logo=databricks&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,docker,linux&theme=light"/> &nbsp;
+<img src="https://img.shields.io/badge/Snowflake-7C93A8?style=flat-square&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Databricks-C97B4A?style=flat-square&logo=databricks&logoColor=white"/>
 
 **Design**
 <br>
-<img src="https://skillicons.dev/icons?i=photoshop,blender&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=photoshop,blender&theme=light"/>
 
 </div>
 
@@ -254,7 +256,7 @@ Automated build, test, and deploy pipeline that reduced manual release errors.
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Priya67803&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Priya67803&theme=flat&no-frame=true&row=1&column=7&margin-w=8"/>
 </div>
 
 <br>
@@ -263,12 +265,12 @@ Automated build, test, and deploy pipeline that reduced manual release errors.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Priya67803&show_icons=true&hide_border=true&bg_color=15151f&title_color=D4AF37&icon_color=7A2E3C&text_color=e8e6e3"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya67803&layout=compact&hide_border=true&bg_color=15151f&title_color=D4AF37&text_color=e8e6e3"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Priya67803&show_icons=true&hide_border=true&bg_color=F8F4EC&title_color=9C6B87&icon_color=C97B4A&text_color=3A4A40"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya67803&layout=compact&hide_border=true&bg_color=F8F4EC&title_color=9C6B87&text_color=3A4A40"/>
 
-<img src="https://streak-stats.demolab.com?user=Priya67803&hide_border=true&background=15151f&ring=D4AF37&fire=7A2E3C&currStreakLabel=D4AF37&sideNums=e8e6e3&sideLabels=e8e6e3&dates=6E7F9A"/>
+<img src="https://streak-stats.demolab.com?user=Priya67803&hide_border=true&background=F8F4EC&ring=9C6B87&fire=C97B4A&currStreakLabel=9C6B87&sideNums=3A4A40&sideLabels=3A4A40&dates=7C93A8"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya67803&hide_border=true&bg_color=15151f&color=e8e6e3&line=D4AF37&point=7A2E3C"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priya67803&hide_border=true&bg_color=F8F4EC&color=3A4A40&line=9C6B87&point=C97B4A"/>
 
 </div>
 
@@ -280,7 +282,7 @@ Automated build, test, and deploy pipeline that reduced manual release errors.
 <img src="https://raw.githubusercontent.com/Priya67803/Priya67803/output/github-contribution-grid-snake.svg"/>
 </div>
 
-<sub>Generated by the <a href="https://github.com/Platane/snk">snk</a> GitHub Action — requires a one-time workflow added to this repo to populate the `output` branch.</sub>
+<sub>Generated automatically by the workflow at <code>.github/workflows/snake.yml</code> — runs every 6 hours and on every push to <code>main</code>. See setup notes below.</sub>
 
 </details>
 
@@ -291,16 +293,16 @@ Automated build, test, and deploy pipeline that reduced manual release errors.
 <div align="center">
 
 <a href="mailto:priya6780@gmail.com">
-<img src="https://img.shields.io/badge/Email-priya6780%40gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=1c1c24&labelColor=1c1c24"/>
+<img src="https://img.shields.io/badge/Email-priya6780%40gmail.com-9C6B87?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-7A2E3C?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1c1c24"/>
+<a href="https://www.linkedin.com/in/priya-v-77b396273/">
+<img src="https://img.shields.io/badge/LinkedIn-Priya%20.V-C97B4A?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-Visit-6E7F9A?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1c1c24"/>
+<a href="https://my-portfolio-7b8b.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-AI%20%26%20ML%20Portfolio-7C93A8?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 <a href="https://github.com/Priya67803">
-<img src="https://img.shields.io/badge/GitHub-Priya67803-D4AF37?style=for-the-badge&logo=github&logoColor=1c1c24&labelColor=1c1c24"/>
+<img src="https://img.shields.io/badge/GitHub-Priya67803-9C6B87?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -312,5 +314,7 @@ Automated build, test, and deploy pipeline that reduced manual release errors.
 > *"Building intelligent systems that solve real-world problems through Artificial Intelligence."*
 
 ⭐ If you like my work, consider starring my repositories!
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:D9C5B4,50:E8D5C4,100:F3E7D3&height=80&section=footer"/>
 
 </div>
