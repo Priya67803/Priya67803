@@ -33,7 +33,7 @@
 
 ## 📖 About Me
 
-I design and train deep learning systems for domains where a wrong prediction has real consequences — **aircraft engine health**, **pulmonary hypertension diagnosis**, and **endometrial cancer detection**. My work sits at the intersection of time-series modelling, computer vision, and interpretability.
+I design and train deep learning systems for domains where a wrong prediction has real consequences — **aircraft engine health**, **pulmonary hypertension diagnosis**. My work sits at the intersection of time-series modelling, computer vision, and interpretability.
 
 <details>
 <summary><b>Read more</b></summary>
@@ -253,20 +253,9 @@ Automated build, test, and deploy pipeline that reduced manual release errors.
 
 <br>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Priya67803&theme=flat&no-frame=true&row=1&column=7&margin-w=8"/>
-</div>
-
-<br>
-
 ## 📊 GitHub Statistics
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Priya67803&show_icons=true&hide_border=true&bg_color=F8F4EC&title_color=9C6B87&icon_color=C97B4A&text_color=3A4A40"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priya67803&layout=compact&hide_border=true&bg_color=F8F4EC&title_color=9C6B87&text_color=3A4A40"/>
 
 <img src="https://streak-stats.demolab.com?user=Priya67803&hide_border=true&background=F8F4EC&ring=9C6B87&fire=C97B4A&currStreakLabel=9C6B87&sideNums=3A4A40&sideLabels=3A4A40&dates=7C93A8"/>
 
