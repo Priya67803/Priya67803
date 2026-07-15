@@ -281,8 +281,8 @@ Automated build, test, and deploy pipeline that reduced manual release errors.
 
 <div align="center">
 
-<a href="mailto:priya6780@gmail.com">
-<img src="https://img.shields.io/badge/Email-priya6780%40gmail.com-9C6B87?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:www.priya6780@gmail.com">
+<img src="https://img.shields.io/badge/Email-www.priya6780%40gmail.com-9C6B87?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://www.linkedin.com/in/priya-v-77b396273/">
 <img src="https://img.shields.io/badge/LinkedIn-Priya%20.V-C97B4A?style=for-the-badge&logo=linkedin&logoColor=white"/>
