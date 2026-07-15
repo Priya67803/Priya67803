@@ -7,7 +7,7 @@
 <br>
 
 <img src="https://img.shields.io/badge/B.E.-Computer%20Science%20(AI%20%26%20ML)-9C6B87?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/M.S.%20Ramaiah%20Institute%20of%20Technology-C97B4A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/%20Ramaiah%20Institute%20of%20Technology-C97B4A?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Bengaluru,%20India-7C93A8?style=for-the-badge"/>
 
 <br><br>
