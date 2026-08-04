@@ -193,7 +193,7 @@ Automated build, test, and deploy pipeline that reduced manual release errors.
 
 | Degree | Institution | Duration | CGPA |
 |:---|:---|:---:|:---:|
-| B.E. Computer Science & Engineering (AI & ML) | M. S. Ramaiah Institute of Technology, Bengaluru | 2024 – 2027 | 9.06 <sub>(till 5th sem)</sub> |
+| B.E. Computer Science & Engineering (AI & ML) | M. S. Ramaiah Institute of Technology, Bengaluru | 2024 – 2027 | 9.06 <sub>(till 6th sem)</sub> |
 | Diploma in Computer Science & Engineering | MEI Polytechnic, Bengaluru | 2021 – 2024 | 9.83 |
 
 </div>
